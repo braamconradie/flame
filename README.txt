@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/braamconradie/pen/aLjmVv.
+
+ Just playing with particles. Hopefully this will inspire others to try stuff like this out too. This will develop with time so feel free to check back soon. I hope to create a simple engine to create and manage simple 2d particle effects on HTML5 canvas. Try it out by moving your mouse around in the demo and trying out some of the pre-sets from the drop down menu. If you make something cool with this feel free to let me know :-)
